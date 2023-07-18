@@ -62,7 +62,15 @@
         grid-template-columns: 1fr;
        
     }
+    /* discount */
 
+    .discount-container {
+    
+       flex-direction: column;
+    }
+    .discount-img,.discount-text{
+        width: 100%;
+    }
 
 
 }
