@@ -71,6 +71,10 @@
     .discount-img,.discount-text{
         width: 100%;
     }
+    .discount-text{
+        text-align: center;
+    }
+   
 
 
 }
